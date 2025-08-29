@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Saraswati Kumbhar  
+🚀 Java Full Stack Developer | Spring Boot • React.js • MySQL
 
-<!--
-**saraswati89/saraswati89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 About Me
+- 🎓 M.Sc. Computer Science (COCSIT, Latur)
+- 💻 Completed Full Stack Java certification at Symbiosis
+- 🏗️ Built projects: Library Management System and College Information System
 
-Here are some ideas to get you started:
+### 🔹 Skills
+Java • Spring Boot • Hibernate • REST APIs • React.js • MySQL • Git • Maven • Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Projects (top)
+- 📚 Library Management System — Spring Boot + MySQL (role-based login, issue/return)  
+- 🏫 College Information System — Java Swing + MySQL  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/saraswati-kumbhar-95a964255/) • ✉️ saraswatik1432@gmail.com
